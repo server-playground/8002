@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "prestart": "npm list koa && echo 'the latest version:' && npm view koa version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +19,6 @@
   },
   "homepage": "https://github.com/server-playground/8002#readme",
   "dependencies": {
-    "koa": "^2.5.3"
+    "koa": "^2.7.0"
   }
 }
