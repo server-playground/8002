@@ -1,5 +1,5 @@
 # 8002
-> use `koa` to create a server playground.
+> use `Koa` to create a server playground.
 
 https://koajs.com/
 
