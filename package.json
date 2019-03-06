@@ -1,7 +1,7 @@
 {
   "name": "8002",
   "version": "1.0.0",
-  "description": "",
+  "description": "use `koa` to create a server playground.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
